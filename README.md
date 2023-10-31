@@ -15,9 +15,9 @@ Para interatividade entre elas, utilizei a linguagem de programação JavaScript
 
 Conforme dito no tópico acima, foram criados três (3) arquivos do tipo HTML, juntamente de três (3) arquivos do tipo css. Esses arquivos fazem referência a seu respectivo correspondente, por exemplo, a página HTML "index.html" faz referência ao arquivo do tipo CSS (index.css), assim sucessitivamente. <br>
 
-Na página HTML (index.html), utilizei uma logo, uma mensagem de saudação e um botão para continuidade do fluxo do projeto. Centralizei os todos os itens texto no centro da tela utilizando técnicas do CSS e modifiquei o estilo do botão, removendo a borda e adicionando uma tag chamada "placeholder", que nos retorna um efeito de sombreamento.
+Na página HTML (index.html), utilizei uma (1) imagem, uma (1) mensagem de saudação e um (1) botão para continuidade do fluxo do projeto. Centralizei todos os itens no centro da tela, modifiquei o estilo das fontes, defini um espaçamento entre as divs e modifiquei o estilo dos botões, removendo a borda e adicionando uma tag chamada "placeholder", que nos retorna um efeito de sombreamento. Essas mudanças foram realizadas através de técnicas utilizadas nos arquivos do tipo CSS.
 
-Na pagina
+Na pagina HTML (calculdora.html), utilizei uma imagem, dois (2) labels, dois (2) inputs e dois (2) botões. Centralizei os todos os itens texto no centro da tela utilizando técnicas do CSS e 
 
 
 
