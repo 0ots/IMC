@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: rgb(22, 154, 40);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#slogan{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#btn{
+    text-align: center;
+    margin-top: 25px;
+}
+#btniniciar{
+    border: color-mix(in hsl shorter hue, color percentage, color percentage);
+    border-radius: 15px;
+    font-size: 20px;
+    border-style:none;
+    cursor: pointer;
+}
+#btniniciar:hover{
+    background-color: #d5d8d7;
+}
+#pagina{
+    border-radius: 25px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+figure{
+    text-align: center;
+}
