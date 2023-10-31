@@ -13,7 +13,7 @@ Para interatividade entre elas, utilizei a linguagem de programação JavaScript
 
 <strong>Front-end:</strong>
 
-Conforme dito no tópico acima, foram criados três (3) arquivos do tipo HTML, juntamente de três (3) arquivos do tipo css. Esses arquivos fazem referência a seu respectivo correspondente, por exemplo, a página HTML "index.html" faz referência ao arquivo do tipo CSS (index.css), assim sucessitivamente. <br>
+Foram criados três (3) arquivos do tipo HTML, juntamente de três (3) arquivos do tipo css. Esses arquivos fazem referência a seu respectivo correspondente, por exemplo, a página HTML "index.html" faz referência ao arquivo do tipo CSS (index.css), assim sucessitivamente. <br>
 
 Na página HTML (index.html), utilizei uma (1) imagem, uma (1) mensagem de saudação e um (1) botão para continuidade do fluxo do projeto. Centralizei todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entre as "divs" e modifiquei o estilo dos "buttons", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento.
 
@@ -22,3 +22,5 @@ Na pagina HTML (calculadora.html), utilizei uma (1) imagem, dois (2) "labels", d
 Na página HTML (resultado.html), utilizei uma (1) imagem, dois (2) "labels" e um (1) "button" para continuidade do fluxo do projeto. Centralizei todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entre as "divs" e modifiquei o estilo do "button", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento.
 
 <strong>Back-end</strong>
+
+Conforme dito no tópico 
