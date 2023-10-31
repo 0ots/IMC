@@ -1,6 +1,6 @@
 # Calculo_Imc
 
-Este projeto tem o intuito de calcular o IMC de uma pessoa.
+Este projeto tem como objetivo calcular o IMC de uma pessoa.
 
 ## Linguagens
 
