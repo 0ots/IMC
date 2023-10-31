@@ -8,3 +8,9 @@ Utilizei a linguagem de marcação HTML e a linguagem de estilo CSS para estrutu
 Para interatividade entre elas, utilizei a linguagem de programação JavaScript.<br>
 
 ### Desenvolvimento
+
+Estrutura:
+
+Front-end:
+
+Back-end:
