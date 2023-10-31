@@ -9,7 +9,7 @@ Para interatividade entre elas, utilizei a linguagem de programação JavaScript
 
 ### Desenvolvimento
 
-Estrutura: Foram criadas 3 páginas, umas para armazenar as imagens (imgs), uma para armazenar os arquivos do tipo CSS (CSS) e uma para armazenar o arquivo de do tipo JS.
+<strong>Estrutura:</strong> Foram criadas 3 páginas, umas para armazenar as imagens (imgs), uma para armazenar os arquivos do tipo CSS (CSS) e uma para armazenar o arquivo de do tipo JS.
 
 Front-end:
 
