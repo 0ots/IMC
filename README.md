@@ -9,7 +9,9 @@ Para interatividade entre elas, utilizei a linguagem de programação "JavaScrip
 
 ### Desenvolvimento
 
-<strong>Estrutura:</strong> Foram criadas 3 pastas, uma para armazenar as duas (2) imagens (imgs), uma para armazenar os três (3) arquivos do tipo "CSS" (css) e uma para armazenar o arquivo do tipo "JavaScript" (js). Os três (3) arquivos do tipo "HTML" foram armazenados no diretório raiz do projeto.
+<strong>Estrutura:</strong> 
+
+Foram criadas 3 pastas, uma para armazenar as duas (2) imagens (imgs), uma para armazenar os três (3) arquivos do tipo "CSS" (css) e uma para armazenar o arquivo do tipo "JavaScript" (js). Os três (3) arquivos do tipo "HTML" foram armazenados no diretório raiz do projeto.
 
 <strong>Front-end:</strong>
 
