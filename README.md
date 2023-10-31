@@ -17,7 +17,7 @@ Conforme dito no tópico acima, foram criados três (3) arquivos do tipo HTML, j
 
 Na página HTML (index.html), utilizei uma (1) imagem, uma (1) mensagem de saudação e um (1) botão para continuidade do fluxo do projeto. Centralizei todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entre as "divs" e modifiquei o estilo dos "buttons", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento.
 
-Na pagina HTML (calculdora.html), utilizei uma (1) imagem, dois (2) "labels", dois (2) "inputs" e dois (2) "buttons". Centralizei os todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entres as "divs" e modifiquei o estilo dos "buttons", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento. 
+Na pagina HTML (calculadora.html), utilizei uma (1) imagem, dois (2) "labels", dois (2) "inputs" e dois (2) "buttons". Centralizei os todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entres as "divs" e modifiquei o estilo dos "buttons", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento. 
 
 Na página HTML (resultado.html), utilizei uma (1) imagem, dois (2) "labels" e um (1) "button" para continuidade do fluxo do projeto. Centralizei todos os itens no centro da tela, padronizei o estilo das fontes, defini um espaçamento entre as "divs" e modifiquei o estilo do "button", removendo a borda e adicionando uma "tag" chamada "placeholder", que nos retorna um efeito de sombreamento.
 
